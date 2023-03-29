@@ -1,6 +1,6 @@
 {
-  "name": "sm-crypto",
-  "version": "0.2.1",
+  "name": "sm-crypto-yonggui",
+  "version": "0.2.2",
   "description": "sm-crypto",
   "main": "src/index.js",
   "scripts": {
